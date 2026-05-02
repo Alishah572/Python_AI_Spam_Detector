@@ -30,7 +30,6 @@ The program performs two primary checks:
 project/
 │
 ├── main.py          # Main spam detection script
-├── DB_Spam.py       # Contains spam keywords and messages database
 └── README.md        # Project documentation
 ```
 ---
